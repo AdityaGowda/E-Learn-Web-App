@@ -101,7 +101,7 @@ let user12
         mainlogin.style.display = "none";
         }
         else{
-          alert("Please signup ")
+          alert("Please signup..")
         }
         
       }
@@ -141,7 +141,3 @@ function logintosign(){
     date2.textContent=allok;
     hurryup.textContent=`Hurry up Offer ends in ${24-r0}hr ${60-r1}min ${60-r2}sec`;
      },)
-
-
-     console.log(`${signupfirstname} ${" "}  ${signuplastname}`);
-     console.log(document.querySelector(".fn").value );
