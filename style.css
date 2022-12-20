@@ -1084,6 +1084,11 @@ padding-left: 10px;
     .uptooff {
       height:330px;
     }
+    .contact .row  img {
+     display: none;
+    }
  
 }
+
+
 
