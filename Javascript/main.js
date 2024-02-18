@@ -60,7 +60,7 @@ function signupback() {
     signup.style.display = "none";
   }
 }
-var user12, user13;
+var user12, user13, signupemailid;
 //  next button click
 function nextclick() {
   if (document.querySelector(".fn").value == 0) {

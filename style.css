@@ -637,6 +637,7 @@ nav {
   margin: 20px 10px 10px 10px;
   border-radius: 0px 0px 2px 2px;
   height: 360px;
+  padding: 5px;
 }
 .ourcourse-start:hover {
   box-shadow: 3px 3px 5px 6px #ccc;
