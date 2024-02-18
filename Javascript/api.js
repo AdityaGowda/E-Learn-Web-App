@@ -2,7 +2,7 @@ let course = [
   {
     image: "./course-img/react.png",
     title: "Learn React : React Complete Course for Beginners",
-    courseUpadted: "09/12/22",
+    courseUpdated: "09/12/22",
     starts: 5,
     reviews: 550,
     price: 250,
@@ -11,7 +11,7 @@ let course = [
   {
     image: "./course-img/aws.jpg",
     title: "Learn AWS : AWS Complete Course for Beginners",
-    courseUpadted: "22/10/22",
+    courseUpdated: "22/10/22",
     starts: 4,
     reviews: 392,
     price: 250,
@@ -20,7 +20,7 @@ let course = [
   {
     image: "./course-img/angular.png",
     title: "Angular Complete Course for Beginners",
-    courseUpadted: "12/11/22",
+    courseUpdated: "12/11/22",
     starts: 5,
     reviews: 202,
     price: 250,
@@ -32,7 +32,7 @@ let course = [
     courseUpdated: "12/12/22",
     stars: 5,
     reviews: 422,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
@@ -41,7 +41,7 @@ let course = [
     courseUpdated: "21/08/22",
     stars: 4,
     reviews: 223,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
@@ -50,7 +50,7 @@ let course = [
     courseUpdated: "02/10/22",
     stars: 4,
     reviews: 322,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
@@ -59,7 +59,7 @@ let course = [
     courseUpdated: "02/11/22",
     stars: 5,
     reviews: 622,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
@@ -68,7 +68,7 @@ let course = [
     courseUpdated: "22/11/22",
     stars: 4,
     reviews: 222,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
@@ -77,7 +77,7 @@ let course = [
     courseUpdated: "29/11/22",
     stars: 3,
     reviews: 322,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
@@ -86,13 +86,13 @@ let course = [
     courseUpdated: "20/10/22",
     stars: 5,
     reviews: 422,
-    price: "250 ₹",
+    price: "250",
     subject: "Programming",
   },
   {
     image: "./course-img/ourcourseimg/graficdesign/KTsKk7aTNqEiKvGQVaCqF5.jpg",
     title: "Photoshop Complete Course for Beginners from Scratch",
-    courseUpadted: "12/11/22",
+    courseUpdated: "12/11/22",
     starts: 4,
     reviews: 392,
     price: 250,
@@ -101,7 +101,7 @@ let course = [
   {
     image: "./course-img/go.jpg",
     title: "Learn GoLang for Beginers Complete Course",
-    courseUpadted: "12/11/22",
+    courseUpdated: "12/11/22",
     starts: 5,
     reviews: 292,
     price: 250,
@@ -111,7 +111,7 @@ let course = [
     image:
       "./course-img/ourcourseimg/graficdesign/adobe-illustrator-course_1_0.webp",
     title: "Javascript Complete Course for Beginners",
-    courseUpadted: "12/11/22",
+    courseUpdated: "12/11/22",
     starts: 5,
     reviews: 222,
     price: 250,
@@ -282,7 +282,7 @@ let course = [
     image:
       "./course-img/ourcourseimg/Bussiness/GettyImages-1153397912-5cc5918639d6482b8b1b035413b8c267.jpg",
     title: "Digital Marketing Complete Course for Beginners",
-    courseUpadted: "12/11/22",
+    courseUpdated: "12/11/22",
     starts: 4,
     reviews: 392,
     price: 250,
@@ -291,7 +291,7 @@ let course = [
   {
     image: "./course-img/ourcourseimg/graficdesign/KTsKk7aTNqEiKvGQVaCqF5.jpg",
     title: "Digital Marketing Complete Course for Beginners",
-    courseUpadted: "02/09/22",
+    courseUpdated: "02/09/22",
     starts: 4,
     reviews: 310,
     price: 250,

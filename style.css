@@ -335,7 +335,7 @@ nav {
   margin-left: 40px;
   font-size: 30px;
   font-weight: 500;
-  cursor:pointer;
+  cursor: pointer;
 }
 .signupcancel:hover {
   opacity: 0.6;

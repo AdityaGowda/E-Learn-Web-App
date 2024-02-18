@@ -15,6 +15,7 @@ var y = document.querySelector(".navbutton");
 var x = document.querySelector(".nav2");
 var user_name = document.querySelector(".user_name1");
 let user_name1 = document.querySelector(".user_name12");
+let nav2a = document.querySelector(".nav2a");
 let l1 = document.querySelector(".l");
 
 logintosignup.addEventListener("click", logintosign);
@@ -26,11 +27,12 @@ next.addEventListener("click", nextclick);
 backbut.addEventListener("click", butback);
 signupcanelx.addEventListener("click", xcancel2);
 but2.addEventListener("click", but2click);
+// nav2a.addEventListener("click", login);
 y.addEventListener("click", nav);
 // menu
 
 function nav() {
-  if (x.style.display === "none") {
+  if (x.style.display === "none" || x.style.display === "") {
     x.style.display = "block";
   } else {
     x.style.display = "none";
@@ -102,7 +104,7 @@ function but2click() {
   }
 }
 function login() {
-  if (mainlogin.style.display === "none") {
+  if (mainlogin.style.display === "none" || mainlogin.style.display === "") {
     mainlogin.style.display = "block";
   } else {
     mainlogin.style.display = "none";
