@@ -1,23 +1,4 @@
 import course from "./api.js";
-
-window.onload = function () {
-  navBar();
-  footer();
-};
-function navBar() {
-  fetch("/template/navBar.html")
-    .then((response) => response.text())
-    .then((navBarHtml) => {
-      document.querySelector("#navBar").innerHTML = navBarHtml;
-    });
-}
-function footer() {
-  fetch("/template/footer.html")
-    .then((content) => content.text())
-    .then((footerPage) => {
-      document.querySelector("#footer").innerHTML = footerPage;
-    });
-}
 var loginlogoclick2 = document.querySelector(".loginimg2");
 var loginlogoclick = document.querySelector(".loginimg");
 var mainlogin = document.querySelector(".logindisplay");
