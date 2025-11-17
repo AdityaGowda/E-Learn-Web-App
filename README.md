@@ -71,14 +71,14 @@ cd E-Learn-Web-App
 # Open index.html in your browser
 ```
 
-### 👨‍💻 Author
-Adithya M R
-Frontend Software Engineer
-Bangalore, India
+****
+## 👨‍💻 Author  
+**Adithya M R**  
+Frontend Software Engineer — Bangalore, India  
 
-GitHub: https://github.com/AdityaGowda
-Portfolio: https://adithya-dev.netlify.app/
-LinkedIn: https://www.linkedin.com/in/adithya-dev/
-
+- **GitHub:** [AdityaGowda](https://github.com/AdityaGowda)  
+- **Portfolio:** [adithya-dev.netlify.app](https://adithya-dev.netlify.app/)  
+- **LinkedIn:** [adithya-dev](https://www.linkedin.com/in/adithya-dev/)  
 
 ⭐ **If you like my work, consider giving a star!**
+
