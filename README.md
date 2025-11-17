@@ -73,9 +73,9 @@ Perfect for:
 git clone https://github.com/AdityaGowda/E-Learn-Web-App.git
 cd E-Learn-Web-App
 # Open index.html in your browser
+```
 
-
-👨‍💻 Author
+### 👨‍💻 Author
 Adithya M R
 Frontend Software Engineer
 Bangalore, India
