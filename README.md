@@ -41,7 +41,6 @@ Perfect for:
 - 🧭 **Simple Navigation** across multiple pages  
 - ⚡ **Lightweight & Fast** (no frameworks used)  
 - 🗂️ **Well-structured project folders**  
-- 🖼️ **Custom images and banners**  
 
 ---
 
