@@ -55,18 +55,14 @@ Perfect for:
 - Modular project structure  
 
 ---
+## 🏷️ Project Tags
 
-## 📂 Project Structure
-/
-├── index.html
-├── course.html
-├── about.html
-├── contact.html
-├── style.css
-└── img/
+`e-learning` `education-app` `learning-platform`  
+`frontend-project` `html` `css` `javascript`  
+`responsive-design` `web-design` `ui-design`  
+`course-website` `education-website`  
+`static-website` `lightweight-app` `vanilla-js`
 
-
----
 
 ## 🧪 How to Run Locally
 ```bash
