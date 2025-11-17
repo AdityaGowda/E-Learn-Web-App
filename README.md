@@ -2,7 +2,6 @@
 A clean, responsive, and modern e-learning platform built using **HTML, CSS, and JavaScript**.  
 Designed to provide a smooth and engaging learning experience through a simple UI and well-structured layouts.
 
----
 
 ## 🔥 Badges
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -11,18 +10,13 @@ Designed to provide a smooth and engaging learning experience through a simple U
 ![License](https://img.shields.io/badge/License-Free-orange)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 
----
-
 ## 🌐 Live Demo  
 👉 **https://adityagowda.github.io/E-Learn-Web-App/**
-
----
 
 ## 🏷️ Project Tags
 `e-learning` `education` `frontend` `javascript` `html` `css`  
 `responsive` `courses` `ui-design` `learning-platform`  
 
----
 
 ## 💡 Overview
 This project is a **frontend-only e-learning platform** that displays courses, content sections, an about page, a contact page, and a clean layout for users to explore and read content easily.
@@ -33,7 +27,6 @@ Perfect for:
 ✔ Practicing clean project structuring  
 ✔ Educational institutes that need static information pages  
 
----
 
 ## 🚀 Features
 - 🎨 **Modern & Responsive UI** – clean layout for all devices  
@@ -42,7 +35,6 @@ Perfect for:
 - ⚡ **Lightweight & Fast** (no frameworks used)  
 - 🗂️ **Well-structured project folders**  
 
----
 
 ## 🛠️ Tech Stack
 **Frontend:**  
@@ -54,7 +46,6 @@ Perfect for:
 - Responsive Web Design  
 - Modular project structure  
 
----
 ## 🏷️ Project Tags
 
 `e-learning` `education-app` `learning-platform`  
@@ -71,7 +62,6 @@ cd E-Learn-Web-App
 # Open index.html in your browser
 ```
 
----
 ## 👨‍💻 Author  
 **Adithya M R**  
 Frontend Software Engineer — Bangalore, India  
