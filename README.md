@@ -71,7 +71,7 @@ cd E-Learn-Web-App
 # Open index.html in your browser
 ```
 
-****
+---
 ## 👨‍💻 Author  
 **Adithya M R**  
 Frontend Software Engineer — Bangalore, India  
